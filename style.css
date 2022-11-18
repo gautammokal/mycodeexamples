@@ -1,3 +1,11 @@
 body{
+  background-color:#fff;
+  margin:0px;
+  padding:0px;
+}
+#wrapper{
+  margin:0px auto;
+  width:80%;
+  padding:0px;
   background-color:yellow;
 }
