@@ -26,9 +26,26 @@ body{
 #nav{
 	border-top:1px solid #fff;
 	background-color:#e41f1f;
-	color:#fff;
-	padding:3px;
+	margin:0px;
+	padding:5px;
 }
+#nav ul,li,a{
+	margin:0px;
+	padding:0px;
+	color:#fff;
+}
+#nav li{
+	display:inline;
+	padding:5px 6px 6px 6px;
+	
+}
+#nav a{
+	text-decoration:none;
+}
+#nav li:hover{
+	background-color:#e5d532;
+}
+
 #main{
 	border-top:1px solid #fff;
 	background-color:#fff;
